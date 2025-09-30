@@ -5,7 +5,7 @@
 Sou um estudante apaixonado por tecnologia, atualmente cursando Sistemas de Informação na FIAP (2025-2028) e formado em Tecnologia da Informação pela FECAP (2022-2024). Estou em busca de uma oportunidade de estágio que me permita aplicar meus conhecimentos técnicos e desenvolver habilidades práticas em um ambiente profissional.
 
 Competências:<br>
-HTML / CSS / JavaScript / Figma / SQL / MySQL / Análise de Dados / Modelagem de Dados / Diagramas / Excel / Power BI / Java / Lógica de Programação / Lógica Matemática / Eletrônica / PowerPoint / Comunicação Clara / Gestão de Tempo / Trabalho em Equipe / Inglês Pré-avançado / GitHub.
+HTML / CSS / JavaScript / Figma / SQL / MySQL / Diagramas / Excel / Power BI / Java / Lógica de Programação / Lógica Matemática / Eletrônica / PowerPoint / Comunicação Clara / Gestão de Tempo / Trabalho em Equipe / Inglês Pré-avançado / GitHub.
 
 📞 (11) 94523-9720 <br>
 ✉️ joaofernandooli2000@gmail.com<br>
